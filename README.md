@@ -4,7 +4,11 @@ An interactive storefront that runs in the console using node and Mysql datebase
 
 # How It Works
 
+
 This program consists of three seperate, but related apps. The first, BlkmazonCustomer.js, allows a "customer" to place an order from the Blkmazon store. A check is then performed on the store inventory and the customer is alerted that their order cannot be completed, or they are shown the total amount owed. ON the backend, the quantity ordered by the customer is deducted from the store quantity (which is stored in a SQL table). At the same time, the $ amount of the order is sent to seperate SQL table to allow the corportate executives to track earnings by department.
+
+Heres a vidoe of the app in action https://drive.google.com/file/d/11x2t-RB_Nn87_RdpFm3w4FOMGm0-4Xgo/view?usp=sharing
+or check out the screenshots below
 
 # BlkmazonCustomer.js Screenshots
 ![customer(start)](https://user-images.githubusercontent.com/47481328/62337709-ca681b00-b4a3-11e9-9992-8e56e06e540b.jpg)
