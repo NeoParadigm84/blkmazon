@@ -35,6 +35,7 @@ Manager can add a new product
 # BlkmazonExecutive.js Screenshots
 
 Executive start screen
+
 ![exec(home)](https://user-images.githubusercontent.com/47481328/62338376-50856100-b4a6-11e9-8609-bab74c1f9631.jpg)
 
 Executive can see salse for all departments
