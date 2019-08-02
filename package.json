@@ -1,0 +1,23 @@
+{
+  "name": "blkmazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "blkmazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeoParadigm84/blkmazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeoParadigm84/blkmazon/issues"
+  },
+  "homepage": "https://github.com/NeoParadigm84/blkmazon#readme",
+  "dependencies": {
+    "inquirer": "^6.5.0",
+    "mysql": "^2.17.1"
+  }
+}
