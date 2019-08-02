@@ -1,6 +1,6 @@
-# blkmazon
+# Blkmazon
 
-An interactive storefront that runs in the console using node and Mysql datebase.
+An interactive storefront that runs in the console using node and Mysql datebase. Requires Mysql and Inquirer.
 
 # How It Works
 
